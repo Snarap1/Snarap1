@@ -15,7 +15,7 @@
 
 ### About me
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn]([linkedin-link](https://www.linkedin.com/in/pavel-naibich/)), [email](mailto:naibichpavel5323@yandex.by)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/pavel-naibich/), [email](mailto:naibichpavel5323@yandex.by)
 - 🌍 I speak English // Belarussian // Polish // Russian
 ---
 
