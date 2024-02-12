@@ -17,6 +17,7 @@
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1aZZ1d692c4xkAkfttk3zjFfecu0nAybL/view?usp=sharing)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/pavel-naibich/), [email](mailto:naibichpavel5323@yandex.by)
 - 🌍 I speak English // Belarussian // Polish // Russian
+- 📫 Wroking on [TrainLab](https://github.com/Train-lab-intern) project.
 ---
 
 ### Languages and tools
